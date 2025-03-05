@@ -1,0 +1,13 @@
+{
+    "name": "proyecto_tienda",
+    "version": "1.0.0",
+    "description": "CRUD para gestionar productos",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "sqlite3": "^3.12.2"
+    }
+  }
